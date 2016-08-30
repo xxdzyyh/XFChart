@@ -13,10 +13,10 @@
 		EC63A7491D741BF400DDCB76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC63A7471D741BF400DDCB76 /* Main.storyboard */; };
 		EC63A74B1D741BF400DDCB76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC63A74A1D741BF400DDCB76 /* Assets.xcassets */; };
 		EC63A74E1D741BF400DDCB76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC63A74C1D741BF400DDCB76 /* LaunchScreen.storyboard */; };
-		EC63A7571D741C3300DDCB76 /* XFBasicChart.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A7561D741C3300DDCB76 /* XFBasicChart.m */; };
-		EC63A75A1D7461B900DDCB76 /* XFRingChart.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A7591D7461B900DDCB76 /* XFRingChart.m */; };
-		EC63A75D1D74621700DDCB76 /* XFChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A75C1D74621700DDCB76 /* XFChartData.m */; };
-		EC63A7601D74626100DDCB76 /* XFChartItem.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A75F1D74626100DDCB76 /* XFChartItem.m */; };
+		EC63A76A1D756F8700DDCB76 /* XFBasicChart.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A7631D756F8700DDCB76 /* XFBasicChart.m */; };
+		EC63A76B1D756F8700DDCB76 /* XFChartData.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A7651D756F8700DDCB76 /* XFChartData.m */; };
+		EC63A76C1D756F8700DDCB76 /* XFChartItem.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A7671D756F8700DDCB76 /* XFChartItem.m */; };
+		EC63A76D1D756F8700DDCB76 /* XFRingChart.m in Sources */ = {isa = PBXBuildFile; fileRef = EC63A7691D756F8700DDCB76 /* XFRingChart.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,14 +30,14 @@
 		EC63A74A1D741BF400DDCB76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC63A74D1D741BF400DDCB76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC63A74F1D741BF400DDCB76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EC63A7551D741C3300DDCB76 /* XFBasicChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFBasicChart.h; sourceTree = "<group>"; };
-		EC63A7561D741C3300DDCB76 /* XFBasicChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFBasicChart.m; sourceTree = "<group>"; };
-		EC63A7581D7461B900DDCB76 /* XFRingChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFRingChart.h; sourceTree = "<group>"; };
-		EC63A7591D7461B900DDCB76 /* XFRingChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFRingChart.m; sourceTree = "<group>"; };
-		EC63A75B1D74621700DDCB76 /* XFChartData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFChartData.h; sourceTree = "<group>"; };
-		EC63A75C1D74621700DDCB76 /* XFChartData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFChartData.m; sourceTree = "<group>"; };
-		EC63A75E1D74626100DDCB76 /* XFChartItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFChartItem.h; sourceTree = "<group>"; };
-		EC63A75F1D74626100DDCB76 /* XFChartItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFChartItem.m; sourceTree = "<group>"; };
+		EC63A7621D756F8700DDCB76 /* XFBasicChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFBasicChart.h; sourceTree = "<group>"; };
+		EC63A7631D756F8700DDCB76 /* XFBasicChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFBasicChart.m; sourceTree = "<group>"; };
+		EC63A7641D756F8700DDCB76 /* XFChartData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFChartData.h; sourceTree = "<group>"; };
+		EC63A7651D756F8700DDCB76 /* XFChartData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFChartData.m; sourceTree = "<group>"; };
+		EC63A7661D756F8700DDCB76 /* XFChartItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFChartItem.h; sourceTree = "<group>"; };
+		EC63A7671D756F8700DDCB76 /* XFChartItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFChartItem.m; sourceTree = "<group>"; };
+		EC63A7681D756F8700DDCB76 /* XFRingChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XFRingChart.h; sourceTree = "<group>"; };
+		EC63A7691D756F8700DDCB76 /* XFRingChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XFRingChart.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +70,7 @@
 		EC63A73D1D741BF400DDCB76 /* XFChart */ = {
 			isa = PBXGroup;
 			children = (
+				EC63A7611D756F8700DDCB76 /* Chart */,
 				EC63A7411D741BF400DDCB76 /* AppDelegate.h */,
 				EC63A7421D741BF400DDCB76 /* AppDelegate.m */,
 				EC63A7441D741BF400DDCB76 /* ViewController.h */,
@@ -79,14 +80,6 @@
 				EC63A74C1D741BF400DDCB76 /* LaunchScreen.storyboard */,
 				EC63A74F1D741BF400DDCB76 /* Info.plist */,
 				EC63A73E1D741BF400DDCB76 /* Supporting Files */,
-				EC63A7551D741C3300DDCB76 /* XFBasicChart.h */,
-				EC63A7561D741C3300DDCB76 /* XFBasicChart.m */,
-				EC63A7581D7461B900DDCB76 /* XFRingChart.h */,
-				EC63A7591D7461B900DDCB76 /* XFRingChart.m */,
-				EC63A75B1D74621700DDCB76 /* XFChartData.h */,
-				EC63A75C1D74621700DDCB76 /* XFChartData.m */,
-				EC63A75E1D74626100DDCB76 /* XFChartItem.h */,
-				EC63A75F1D74626100DDCB76 /* XFChartItem.m */,
 			);
 			path = XFChart;
 			sourceTree = "<group>";
@@ -97,6 +90,21 @@
 				EC63A73F1D741BF400DDCB76 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EC63A7611D756F8700DDCB76 /* Chart */ = {
+			isa = PBXGroup;
+			children = (
+				EC63A7621D756F8700DDCB76 /* XFBasicChart.h */,
+				EC63A7631D756F8700DDCB76 /* XFBasicChart.m */,
+				EC63A7641D756F8700DDCB76 /* XFChartData.h */,
+				EC63A7651D756F8700DDCB76 /* XFChartData.m */,
+				EC63A7661D756F8700DDCB76 /* XFChartItem.h */,
+				EC63A7671D756F8700DDCB76 /* XFChartItem.m */,
+				EC63A7681D756F8700DDCB76 /* XFRingChart.h */,
+				EC63A7691D756F8700DDCB76 /* XFRingChart.m */,
+			);
+			path = Chart;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -169,13 +177,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC63A7601D74626100DDCB76 /* XFChartItem.m in Sources */,
+				EC63A76D1D756F8700DDCB76 /* XFRingChart.m in Sources */,
+				EC63A76B1D756F8700DDCB76 /* XFChartData.m in Sources */,
 				EC63A7461D741BF400DDCB76 /* ViewController.m in Sources */,
+				EC63A76C1D756F8700DDCB76 /* XFChartItem.m in Sources */,
 				EC63A7431D741BF400DDCB76 /* AppDelegate.m in Sources */,
+				EC63A76A1D756F8700DDCB76 /* XFBasicChart.m in Sources */,
 				EC63A7401D741BF400DDCB76 /* main.m in Sources */,
-				EC63A75A1D7461B900DDCB76 /* XFRingChart.m in Sources */,
-				EC63A75D1D74621700DDCB76 /* XFChartData.m in Sources */,
-				EC63A7571D741C3300DDCB76 /* XFBasicChart.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
