@@ -11,6 +11,8 @@
 
 @interface XFBasicChart : UIView
 
+@property (assign, nonatomic) BOOL canTap;
+
 @property (assign, nonatomic) UIEdgeInsets chartInsets;
 
 @property (strong, nonatomic) XFChartData *chartData;

@@ -41,6 +41,7 @@
     
     XFRingChart *chart = [[XFRingChart alloc] initWithFrame:self.view.bounds];
     
+    chart.canTap = YES;
     chart.chartData = data;
     
     [chart strokeChart];
